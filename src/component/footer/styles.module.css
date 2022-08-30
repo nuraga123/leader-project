@@ -1,0 +1,14 @@
+.footer {
+    margin: 0 10px;
+}
+
+.separator {
+    border: 1px solid var(--color-footer-background);
+    background-color: var(--color-footer-background);
+    margin: 70px auto 20px;
+}
+
+.text {
+    font-size: 12px;
+    color: var(--color-footer-text);
+}

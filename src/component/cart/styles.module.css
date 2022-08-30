@@ -1,0 +1,16 @@
+.header {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.footer {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 280px){
+    .header {
+        padding: 0 5px;
+    }
+}
